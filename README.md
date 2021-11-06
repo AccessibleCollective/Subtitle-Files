@@ -1,3 +1,3 @@
 # Subtitle-Files
 
-Check GitLab and Amara for mirrored versions.
+Check GitLab, Internet Archive and Amara for mirrored versions.
