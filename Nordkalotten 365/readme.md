@@ -21,6 +21,17 @@ The following translated subtitles are from [subs.hopto.org](https://web.archive
 
 ### How to Download
 - [Nordkalotten365.English.Subtitles.zip](https://github.com/AccessibleCollective/Subtitle-Files/raw/main/Nordkalotten%20365/Nordkalotten365.English.Subtitles.zip) [[archived](https://web.archive.org/web/20100213074754fw_/http://home.earthlink.net/~axw/nrk-en/Nordkalotten365.English.Subtitles.zip)]
+
+Individual files
+- [Nordkalotten365.E01b.1024x576.H264.NRK.srt](https://github.com/AccessibleCollective/Subtitle-Files/raw/main/Nordkalotten%20365/Nordkalotten365.E01b.1024x576.H264.NRK.srt) [[archived](https://web.archive.org/web/20100213074754fw_/http://home.earthlink.net/~axw/nrk-en/Nordkalotten365.E01b.1024x576.H264.NRK.srt)]
+- [Nordkalotten365.E02.1024x576.H264.NRK.srt](https://github.com/AccessibleCollective/Subtitle-Files/raw/main/Nordkalotten%20365/Nordkalotten365.E02.1024x576.H264.NRK.srt) [[archived](https://web.archive.org/web/20100213074754fw_/http://home.earthlink.net/~axw/nrk-en/Nordkalotten365.E02.1024x576.H264.NRK.srt)]
+- [Nordkalotten365.E03.1024x576.H264.NRK.srt](https://github.com/AccessibleCollective/Subtitle-Files/raw/main/Nordkalotten%20365/Nordkalotten365.E03.1024x576.H264.NRK.srt) [[archived](https://web.archive.org/web/20100213074754fw_/http://home.earthlink.net/~axw/nrk-en/Nordkalotten365.E03.1024x576.H264.NRK.srt)]
+- [Nordkalotten365.E04.1024x576.H264.NRK.srt](https://github.com/AccessibleCollective/Subtitle-Files/raw/main/Nordkalotten%20365/Nordkalotten365.E04.1024x576.H264.NRK.srt) [[archived](https://web.archive.org/web/20100213074754fw_/http://home.earthlink.net/~axw/nrk-en/Nordkalotten365.E04.1024x576.H264.NRK.srt)]
+- [Nordkalotten365.E05.1024x576.H264.NRK.srt] [[archived](https://web.archive.org/web/20100213074754fw_/http://home.earthlink.net/~axw/nrk-en/Nordkalotten365.E05.1024x576.H264.NRK.srt)]
+- [Nordkalotten365.E06.1024x576.H264.NRK.srt] [[archived](https://web.archive.org/web/20100213074754fw_/http://home.earthlink.net/~axw/nrk-en/Nordkalotten365.E06.1024x576.H264.NRK.srt)]
+- [Nordkalotten365.E07.1024x576.H264.NRK.srt] [[archived](https://web.archive.org/web/20100213074754fw_/http://home.earthlink.net/~axw/nrk-en/Nordkalotten365.E07.1024x576.H264.NRK.srt)]
+- [Nordkalotten365.E08.1024x576.H264.NRK.srt] [[archived](https://web.archive.org/web/20100213074754fw_/http://home.earthlink.net/~axw/nrk-en/Nordkalotten365.E08.1024x576.H264.NRK.srt)]
+
 ### How to Watch
 NRK does allow everyone to watch *Nordkalotten 365* [on their website](https://tv.nrk.no/serie/et-aar-paa-tur-med-lars-monsen) with Norwegian subtitles. Since the video player uses webVTT, the web browser's translation software might do in a pinch.
 
