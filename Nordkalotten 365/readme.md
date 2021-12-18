@@ -19,7 +19,7 @@ The following translated subtitles are from [subs.hopto.org](https://web.archive
 >
 > NRK has granted you the rights to download, watch and seed their officially released shows via bittorrent. (Whether a particular country or Internet Service Provider allows you to use bittorrent is another matter entirely.)
 
-### How to Download
+### Download(s)
 - [Nordkalotten365.English.Subtitles.zip](https://github.com/AccessibleCollective/Subtitle-Files/raw/main/Nordkalotten%20365/Nordkalotten365.English.Subtitles.zip) [[archived](https://web.archive.org/web/20100213074754fw_/http://home.earthlink.net/~axw/nrk-en/Nordkalotten365.English.Subtitles.zip)]
 
 **Individual files**
