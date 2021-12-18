@@ -18,3 +18,5 @@ The following translated subtitles are from [subs.hopto.org](https://web.archive
 > - NRK released Norwegian-language subtitles with specific permission granted to translate and create subtitles in other languages ("fansubs").
 >
 > NRK has granted you the rights to download, watch and seed their officially released shows via bittorrent. (Whether a particular country or Internet Service Provider allows you to use bittorrent is another matter entirely.)
+
+NRK does allow everyone to watch the series [on their website](https://tv.nrk.no/serie/et-aar-paa-tur-med-lars-monsen) with Norwegian subtitles. Since the video player uses webVTT, a translation software might do in a pinch.
