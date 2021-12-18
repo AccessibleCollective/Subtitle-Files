@@ -21,6 +21,6 @@ The following translated subtitles are from [subs.hopto.org](https://web.archive
 ### How to Watch
 NRK does allow everyone to watch *Nordkalotten 365* [on their website](https://tv.nrk.no/serie/et-aar-paa-tur-med-lars-monsen) with Norwegian subtitles. Since the video player uses webVTT, the web browser's translation software might do in a pinch.
 
-To use the English subtitles, just stream from NRK to [MPV Player](https://mpv.io/) using [youtube-dl](https://youtube-dl.org/). Paste the URL directly into the command-line `mpv https://tv.nrk.no/serie/et-aar-paa-tur-med-lars-monsen` via the terminal (GNU/Linux and macOS) or the command prompt (Windows). You can also drag and drop the URL from your browser to the mpv window. Then do the same process with the downloaded subtitle files.
+To use the fan-translated English subtitles provided by lexein, just stream from NRK to [MPV Player](https://mpv.io/) using [youtube-dl](https://youtube-dl.org/). Paste the URL directly into the command-line `mpv https://tv.nrk.no/serie/et-aar-paa-tur-med-lars-monsen` via the terminal (GNU/Linux and macOS) or the command prompt (Windows). You can also drag and drop the URL from your browser to the mpv window. Then do the same process with the downloaded subtitle files.
 
 If watching episodes from YouTube is easier, then there are multiple options mentioned in ["YouTube Captioners' Toolkit"](https://datahorde.org/projects/the-youtube-captioners-toolkit/) from *Data Horde*.
