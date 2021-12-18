@@ -6,7 +6,7 @@ Within the original torrents there were Norwegian same-language subtitles (or cl
 
 Read criticisms of NRK's lack of willingness to preserve files released under creative commons and public domain here: https://blog.nytsoi.net/nrk-torrents.
 
-The following translated subtitles are from [subs.hopto.org](https://web.archive.org/web/20100211213940/http://subs.hopto.org:80/) [archived]. Translator [lexein-subs@yahoo.com] asked distributed files to be credited via link-back to subs.hopto.org.
+The following translated subtitles are from [subs.hopto.org](https://web.archive.org/web/20100211213940/http://subs.hopto.org:80/) (archived). Translator [lexein-subs@yahoo.com] asked distributed files to be credited via link-back to subs.hopto.org.
 
 [From the translator:](https://web.archive.org/web/20170108173641/http://www.vaellusnet.com/turinat/viewtopic.php?p=74862)
 > According to NRKbeta on the Nordkalotten 365 page they are using the bittorrent protocol as a low cost distribution method.
