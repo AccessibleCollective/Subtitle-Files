@@ -18,6 +18,9 @@ The following translated subtitles are from [subs.hopto.org](https://web.archive
 > - NRK released Norwegian-language subtitles with specific permission granted to translate and create subtitles in other languages ("fansubs").
 >
 > NRK has granted you the rights to download, watch and seed their officially released shows via bittorrent. (Whether a particular country or Internet Service Provider allows you to use bittorrent is another matter entirely.)
+
+### How to Download
+- (https://github.com/AccessibleCollective/Subtitle-Files/raw/main/Nordkalotten%20365/Nordkalotten365.English.Subtitles.zip) [[archived](https://web.archive.org/web/20100213074754fw_/http://home.earthlink.net/~axw/nrk-en/Nordkalotten365.English.Subtitles.zip)]
 ### How to Watch
 NRK does allow everyone to watch *Nordkalotten 365* [on their website](https://tv.nrk.no/serie/et-aar-paa-tur-med-lars-monsen) with Norwegian subtitles. Since the video player uses webVTT, the web browser's translation software might do in a pinch.
 
