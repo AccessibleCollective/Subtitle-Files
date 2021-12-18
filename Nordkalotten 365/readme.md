@@ -7,3 +7,14 @@ Within the original torrents there were Norwegian same-language subtitles (or cl
 Read criticisms of NRK's lack of willingness to preserve files released under creative commons and public domain here: https://blog.nytsoi.net/nrk-torrents.
 
 The following translated subtitles are from [subs.hopto.org](https://web.archive.org/web/20100211213940/http://subs.hopto.org:80/) [archived]. Translator [lexein-subs@yahoo.com] asked distributed files to be credited via link-back to subs.hopto.org.
+
+From the translator:
+> According to NRKbeta on the Nordkalotten 365 page they are using the bittorrent protocol as a low cost distribution method.
+> - NRK, through NRKBeta.no, has officially licensed these specific shows for distribution for no-cost download and use. http://nrkbeta.no/bittorrent
+> - They went to extra effort to obtain music clearance for digital distribution.
+> - They set up their own bittorrent tracker(!) to measure popularity.
+> - The TV shows(and music) are still copyrighted, but are licensed for personal use without modification, and with attribution intact. As the copyright holders, they decide what rights to offer. They don't want you to violate their other rights (don't call the material yours, don't sell it, don't edit it, don't use it in in derivative works without permission, etc.).
+> - Some material has been released under Creative Commons, such as their lovely HD Bergensbanen train trip footage
+> - NRK released Norwegian-language subtitles with specific permission granted to translate and create subtitles in other languages ("fansubs").
+>
+> NRK has granted you the rights to download, watch and seed their officially released shows via bittorrent. (Whether a particular country or Internet Service Provider allows you to use bittorrent is another matter entirely.)
