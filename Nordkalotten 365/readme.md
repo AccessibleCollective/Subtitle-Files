@@ -19,4 +19,4 @@ The following translated subtitles are from [subs.hopto.org](https://web.archive
 >
 > NRK has granted you the rights to download, watch and seed their officially released shows via bittorrent. (Whether a particular country or Internet Service Provider allows you to use bittorrent is another matter entirely.)
 
-NRK does allow everyone to watch the series [on their website](https://tv.nrk.no/serie/et-aar-paa-tur-med-lars-monsen) with Norwegian subtitles. Since the video player uses webVTT, the web browser's translation software might do in a pinch.
+NRK does allow everyone to watch *Nordkalotten 365* [on their website](https://tv.nrk.no/serie/et-aar-paa-tur-med-lars-monsen) with Norwegian subtitles. Since the video player uses webVTT, the web browser's translation software might do in a pinch.
