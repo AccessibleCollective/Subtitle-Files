@@ -35,8 +35,10 @@ The following translated subtitles are from [subs.hopto.org](https://web.archive
 ### How to Watch
 NRK does allow everyone to watch *Nordkalotten 365* [on their website](https://tv.nrk.no/serie/et-aar-paa-tur-med-lars-monsen) with Norwegian subtitles. Since the video player uses webVTT, the web browser's translation software might do in a pinch.
 
-To use the fan-translated English subtitles provided by lexein, just stream from NRK to [mpv](https://mpv.io/) using [youtube-dl](https://youtube-dl.org/). Copy and paste the URL of the episode from NRK website directly into the command-line `youtube-dl.exempv [URL] --sub-files=[file name]` via the terminal (GNU/Linux, macOS and other *NIX systems) or the command prompt (Windows) with `mpv.exe [URL] --sub-files=[file name]`. 
+To use the fan-translated English subtitles provided by lexein, just stream from NRK to [mpv](https://mpv.io/) using [youtube-dl](https://youtube-dl.org/). Copy and paste the URL of the episode from NRK website directly into the command-line `mpv [URL] --sub-files=[file name]` via the terminal (GNU/Linux, macOS and other *NIX systems) or the command prompt (Windows) with `mpv.exe [URL] --sub-files=[file name]`. 
 
-You can also drag and drop the URL from your browser to the mpv window. Then do the same process with the downloaded subtitle files. If you are using Windows as your main operating system, make sure `youtube-dl.exe` is within the same directory as `mpv.exe`.
+ If you are using Windows as your main operating system, make sure `youtube-dl.exe` is within the same directory as `mpv.exe`.
 
-If watching episodes from YouTube is easier, then there are multiple options mentioned in ["YouTube Captioners' Toolkit"](https://datahorde.org/projects/the-youtube-captioners-toolkit/) from *Data Horde*.
+You can also drag and drop the URL from your browser to the mpv window. Then do the same process with the downloaded subtitle files.
+
+If watching episodes from YouTube is easier than using mpv, then there are multiple options mentioned in ["YouTube Captioners' Toolkit"](https://datahorde.org/projects/the-youtube-captioners-toolkit/) from *Data Horde*.
